@@ -1,7 +1,7 @@
 # In short
 # Select the minimum & sort
 # i.e, select minimum & replace with the current element
-# Algorithm complexity O(n^2)
+# Algorithm complexity O(n^2) worst time, 
 
 
 def selectionSort(box):
